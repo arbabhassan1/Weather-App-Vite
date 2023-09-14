@@ -1,0 +1,18 @@
+#copyright{
+    text-align: center;
+    margin-top: 20px;
+}
+/* #copyright a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 17px;
+}
+#copyright a:hover{
+    color: teal;
+} */
+@media only screen and (max-width:750px) {
+    #copyright{
+        margin-top: 40px;
+    }
+}
